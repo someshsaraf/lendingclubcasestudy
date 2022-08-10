@@ -33,7 +33,7 @@ loss.
 - Bivariate analysis
 - Trivariate analysis
 
-## Conclusion:
+## Conclusion
 The analysis shows lot of individual parameters affect the applicants to become defaulters.
 Below is the conclusion:
 - Interest rate between 14% and 17% tend to be defaulters.
