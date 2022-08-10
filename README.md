@@ -7,6 +7,7 @@
 ## Table of Contents
 * [Problem statement](#general-information)
 * [Analysis approach](#general-information)
+* [Conclusion](#general-information)
 * [Technologies Used](#technologies-used)
 
 
@@ -25,14 +26,14 @@ loss.
 
 - Identification of such applicants is the objective of the project.
 
-## Analysis approach used
+## Analysis approach
 - Data Understanding
 - Data clean up
 - Univariate analysis
 - Bivariate analysis
 - Trivariate analysis
 
-Conclusion:
+## Conclusion:
 The analysis shows lot of individual parameters affect the applicants to become defaulters.
 Below is the conclusion:
 - Interest rate between 14% and 17% tend to be defaulters.
